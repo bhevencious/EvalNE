@@ -1,3 +1,6 @@
+License
+=======
+
 MIT License
 
 Copyright 2018 Ghent University, Alexandru Mara
