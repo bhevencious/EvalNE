@@ -1,7 +1,0 @@
-matplotlib
-numpy==1.15.1
-scipy
-networkx
-scikit-learn
-tqdm
-pandas
